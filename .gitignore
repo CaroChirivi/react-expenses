@@ -6,6 +6,7 @@
 /node_modules
 /react_style_project/node_modules
 /react_initial_project/node_modules
+/practice_project/node_modules
 /.pnp
 .pnp.js
 
