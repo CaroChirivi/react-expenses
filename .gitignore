@@ -9,6 +9,7 @@
 /practice_project/node_modules
 /sideeffect_reducers_context_api/node_modules
 /06_usereducer/node_modules
+/06_usereducer/.eslintcache
 /.pnp
 .pnp.js
 
