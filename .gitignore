@@ -10,6 +10,8 @@
 /sideeffect_reducers_context_api/node_modules
 /06_usereducer/node_modules
 /06_usereducer/.eslintcache
+/food_order_app/node_modules
+/food_oder_app/.eslintcache
 /.pnp
 .pnp.js
 
